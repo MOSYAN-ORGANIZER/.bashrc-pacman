@@ -1,0 +1,2 @@
+# .bashrc-pacman
+Hias Terminal
