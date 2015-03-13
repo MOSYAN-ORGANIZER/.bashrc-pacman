@@ -1,0 +1,6 @@
+sudo xhost +SI:localuser:lightdm
+sudo su lightdm -s /bin/bash
+gsettings set com.canonical.unity-greeter draw-grid false
+exit
+
+The problem you made was that you prefixed the gsettings command with sudo, which it doesn't need.
