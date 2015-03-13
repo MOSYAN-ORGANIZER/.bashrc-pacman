@@ -1,0 +1,4 @@
+(pindah/copy file download) have your cursor themes in /usr/share/icons instead of ~/.icons
+sudo update-alternatives --config x-cursor-theme
+
+setting manager - mouse&trackpad
