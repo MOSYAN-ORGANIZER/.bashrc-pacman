@@ -1,6 +1,6 @@
 /*
 var s3slider_config = {
-	url: 'http://www.seocips.com',
+	url: 'http://www.lowongankerjaNKRI.blogspot.co.id',
 	numPost: 6,
 	labelName: null,
 	monthArray: [
@@ -21,8 +21,8 @@ var s3slider_config = {
 	newTabLink: false,
 	containerId: 's3slider-container',
 	slider: {
-		width: 420,
-		height: 270,
+		width: 750,
+		height: 350,
 		timeOut: 5000
 	}
 };
@@ -39,7 +39,7 @@ Version: 1.0
 Copyright: Feel free to redistribute the script/modify it, as
            long as you leave my infos at the top.
 
-Modified by Taufik Nurrohman <http://gplus.to/tovic>
+Modified by Mochamad Syaiful Anwar <http://www.facebook.com/cipooelweestz.adoh>
 
 -------------------------------------------------------------------------- */
 (function($) {
@@ -125,7 +125,7 @@ Modified by Taufik Nurrohman <http://gplus.to/tovic>
 	};
 })(jQuery);
 
-/* s3Slider for Blogger by Taufik Nurrohman <http://gplus.to/tovic> */
+/* s3Slider for Blogger by Mochamad Syaiful Anwar <https://www.facebook.com/cipooelweestz.adoh> */
 (function($, w, d) {
 	var sc = s3slider_config,
 		container = d.getElementById(sc.containerId),
